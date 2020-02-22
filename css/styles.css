@@ -1,0 +1,27 @@
+h1 {
+  margin-top: 0;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #BEEBE9;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+
+}
+
+.middle-container {
+  background-color: red;
+  position: absolute;
+
+
+.bottom-container {
+  background-color: blue;
+  position: absolute;
+
+}
